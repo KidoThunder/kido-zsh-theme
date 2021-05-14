@@ -64,4 +64,3 @@ ${hg_info}\
 ${venv_info}
 
 %${ret_status}%{$reset_color%}"
-
