@@ -25,6 +25,6 @@ You can choose your favorite iterm color scheme in [iTerm Color Schemes Site](ht
 4. Select the color scheme file
 5. Select the color scheme from **Load Presets**
 
-#### License
+## License
 
 Released under the [MIT](./LICENSE) License.
