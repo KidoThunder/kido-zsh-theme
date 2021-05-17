@@ -1,5 +1,5 @@
 # Kido zsh theme
-Kido theme is based on [`ys`](http://blog.ysmood.org/my-ys-terminal-theme/) theme and `robbyrushell` (default theme) theme. 
+Kido theme is based on [`ys`](http://blog.ysmood.org/my-ys-terminal-theme/) theme and [`robbyrussell`](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) (default theme) theme. 
 
 ## Screenshots
 ![demo](./kido.png)
